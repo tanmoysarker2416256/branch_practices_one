@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "branch_practices_one/1.0.0": {
+        "runtime": {
+          "branch_practices_one.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "branch_practices_one/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

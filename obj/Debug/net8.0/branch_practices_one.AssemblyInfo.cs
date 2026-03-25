@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("branch_practices_one")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c57e062f5e4a71742d17d4eb10daefb4dddf0ab8")]
 [assembly: System.Reflection.AssemblyProductAttribute("branch_practices_one")]
 [assembly: System.Reflection.AssemblyTitleAttribute("branch_practices_one")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

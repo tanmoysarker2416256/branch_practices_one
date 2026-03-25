@@ -31,3 +31,4 @@ C:\Users\User\source\repos\branch_practices_one\obj\Debug\net8.0\refint\branch_p
 C:\Users\User\source\repos\branch_practices_one\obj\Debug\net8.0\branch_practices_one.pdb
 C:\Users\User\source\repos\branch_practices_one\obj\Debug\net8.0\branch_practices_one.genruntimeconfig.cache
 C:\Users\User\source\repos\branch_practices_one\obj\Debug\net8.0\ref\branch_practices_one.dll
+C:\Users\User\source\repos\branch_practices_one\obj\Debug\net8.0\branch_practices_one.sourcelink.json
